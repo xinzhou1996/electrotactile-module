@@ -1,0 +1,34 @@
+Added Component: Designator=PA0(Pads_Grid)
+Added Pin To Net: NetName=P0 Pin=PA0-0
+Added Pin To Net: NetName=P1 Pin=PA0-1
+Added Pin To Net: NetName=P2 Pin=PA0-2
+Added Pin To Net: NetName=P3 Pin=PA0-3
+Added Pin To Net: NetName=P4 Pin=PA0-4
+Added Pin To Net: NetName=P5 Pin=PA0-5
+Added Pin To Net: NetName=P6 Pin=PA0-6
+Added Pin To Net: NetName=P7 Pin=PA0-7
+Added Pin To Net: NetName=P8 Pin=PA0-8
+Added Pin To Net: NetName=P9 Pin=PA0-9
+Added Pin To Net: NetName=P10 Pin=PA0-10
+Added Pin To Net: NetName=P11 Pin=PA0-11
+Added Pin To Net: NetName=P12 Pin=PA0-12
+Added Pin To Net: NetName=P13 Pin=PA0-13
+Added Pin To Net: NetName=P14 Pin=PA0-14
+Added Pin To Net: NetName=P15 Pin=PA0-15
+Added Pin To Net: NetName=P16 Pin=PA0-16
+Added Pin To Net: NetName=P17 Pin=PA0-17
+Added Pin To Net: NetName=P18 Pin=PA0-18
+Added Pin To Net: NetName=P19 Pin=PA0-19
+Added Pin To Net: NetName=P20 Pin=PA0-20
+Added Pin To Net: NetName=P21 Pin=PA0-21
+Added Pin To Net: NetName=P22 Pin=PA0-22
+Added Pin To Net: NetName=P23 Pin=PA0-23
+Added Pin To Net: NetName=P24 Pin=PA0-24
+Added Pin To Net: NetName=P25 Pin=PA0-25
+Added Pin To Net: NetName=P26 Pin=PA0-26
+Added Pin To Net: NetName=P27 Pin=PA0-27
+Added Pin To Net: NetName=P28 Pin=PA0-28
+Added Pin To Net: NetName=P29 Pin=PA0-29
+Added Pin To Net: NetName=GND Pin=PA0-30
+Added Pin To Net: NetName=GND Pin=PA0-30
+Added Member To Class: ClassName=Electrotactile Member=Component PA0 Pads

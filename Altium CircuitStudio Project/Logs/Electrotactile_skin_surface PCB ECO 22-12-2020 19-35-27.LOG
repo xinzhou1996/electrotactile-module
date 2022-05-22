@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+5 Pin=JP3-3
+Removed Pin From Net: NetName=STRBE Pin=JP3-5
+Removed Pin From Net: NetName=SERIAL3 Pin=JP3-6
+Removed Pin From Net: NetName=SERIAL2 Pin=JP3-7
+Removed Pin From Net: NetName=SERIAL1 Pin=JP3-8
+Removed Pin From Net: NetName=SERIAL0 Pin=JP3-9
+Removed Pin From Net: NetName=CLCK Pin=JP3-10
+Removed Pin From Net: NetName=LATCH_OE Pin=JP3-11
+Removed Pin From Net: NetName=SHIFTER_OE Pin=JP3-12
+Removed Member From Class: ClassName=Electrotactile Member=JP3
+Change Component Comment : Designator=R4 Old Comment=ERA-2VEB1002X (10K)  New Comment=ERA-2VEB1002X (10K)
+Added Component: Designator=VCC(5v_Port)
+Added Pin To Net: NetName=SHIFTER_OE Pin=JP1-2
+Added Pin To Net: NetName=STRBE Pin=JP1-3
+Added Pin To Net: NetName=LATCH_OE Pin=JP1-7
+Added Pin To Net: NetName=SERIAL3 Pin=JP1-8
+Added Pin To Net: NetName=SERIAL2 Pin=JP1-9
+Added Pin To Net: NetName=SERIAL1 Pin=JP1-10
+Added Pin To Net: NetName=SERIAL0 Pin=JP1-11
+Added Pin To Net: NetName=CLCK Pin=JP1-12

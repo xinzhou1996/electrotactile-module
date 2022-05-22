@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Blank PCB Project.PrjPcb]
+   Generated File[Electrotactile_skin_surface.GTO]
+   Generated File[Electrotactile_skin_surface.GTS]
+   Generated File[Electrotactile_skin_surface.GBS]
+   Generated File[Electrotactile_skin_surface.GBO]
+   Generated File[Electrotactile_skin_surface.GM22]
+   Generated File[Electrotactile_skin_surface.RUL]
+   Generated File[Electrotactile_skin_surface.EXTREP]
+   Generated File[Electrotactile_skin_surface.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 19:44:40 On 05/01/2021
